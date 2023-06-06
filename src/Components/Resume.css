@@ -1,0 +1,46 @@
+.conatainer{
+  width: 800px;
+  background-color: rgba(241, 241, 241, 0.778);
+  margin: auto;
+}
+
+.tag{
+  display: flex;
+  background-color: azure;
+}
+
+.tab{
+  background-color: aliceblue;
+}
+
+#image{
+  float: right;
+}
+
+#mani{
+  border-radius: 50%;
+  padding: 10px;
+  float: right;
+  width: 250px;
+}
+
+#name{
+  font-size: 80px;
+  text-align: center;
+}
+
+#prof{
+  font-size: 20px;
+  text-align: center;
+}
+
+#bor1, #bor2, #bor3{
+  border-right: 1px solid rgb(201, 201, 201);
+  font-size: 17px;
+  width: 250px;
+}
+
+.ic{
+  display: flex;
+  margin-bottom: 10px;
+}
